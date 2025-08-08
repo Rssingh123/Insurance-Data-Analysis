@@ -17,7 +17,7 @@ To identify the key issues in the insurance data problem statement, the followin
 
 6.) Coverage vs. Claim Amount:Reviewing coverage amounts in relation to claim amounts could point out underinsured or overinsured segments.
 
-### Steps followed 
+### Steps followed
 
 To load and prepare CSV data in Power BI, the key steps are as follows:
 
@@ -50,7 +50,7 @@ To load and prepare CSV data in Power BI, the key steps are as follows:
 
 # Snapshot of Dashboard (Power BI Service)
 
-## Power BI Insurance Dashboard P1
+## Insurance Dashboard P1
 #### Power BI dashboard provides a comprehensive visual analysis of insurance data for PRISM INSURANCE PVT. LTD., covering key metrics and trends across policy types, claims, demographics, and policy activity.
 
 Key Dashboard Elements
@@ -109,7 +109,7 @@ Detailed Claims Table:- Shows policy type-level split by claim status (Pending, 
 
 ![Snap_1](https://github.com/Rssingh123/Insurance-Data-Analysis/blob/6ee9401a13de97e6e658b60b28054f01e7adb6a0/Insurance%20P1.png)
 
-## Power BI Insurance Dashboard P2  
+## Insurance Dashboard P2  
 #### Table presents detailed insurance policy records for individual customers, capturing essential policy and customer attributes. Each row represents a single policy and includes the following fields:
 
 - ClaimNumber: Unique identifier for each claim.
